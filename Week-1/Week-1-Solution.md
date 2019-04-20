@@ -1,9 +1,13 @@
 ### Question 1 Which of the followings are digital signals? Check all that apply.
 
 [X] text messages received on a cellphone
+
 [X] videos streamed from online sources
+
 [X] sound tracks stored on a CD
+
 [ ] pencil drawing made on a piece of paper
+
 [ ] an x-ray film image
 
 ### Question 2 Functional magnetic resonance imaging (fMRI) is a technology where volumetric scans of the brain are acquired while the subject is performing some cognitive tasks over time. Based on this description, what is the dimensionality of fMRI output signals?
